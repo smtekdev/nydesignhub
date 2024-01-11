@@ -1,0 +1,1340 @@
+Uri: https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,600;0,800;1,800&family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnMK7uQQ.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnMK7uQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnPKruQQ.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnPKruQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnSKzuQQ.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnSKzuQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9f4kDNxMZdWfMOD5VvkrBuRxf_.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\firasans\v17\va9f4kDNxMZdWfMOD5VvkrBuRxf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://livedemo00.template-help.com/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\cdn-cgi\apps\head\3ts2ksMwXvKRuG480KNifJ2_JNM.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/wt_69536/404-page.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\404-page.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/about.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\about.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/accordion.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\accordion.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/animated-counter.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\animated-counter.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/audio-post.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\audio-post.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/buttons.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\buttons.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/circles-counter.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\circles-counter.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/classic-blog.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\classic-blog.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/coming-soon.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\coming-soon.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/contacts.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\contacts.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/countdown.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\countdown.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/wt_69536/css/fonts.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\css\fonts.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/wt_69536/css/style.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\css\style.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/lg.eot?
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/lg.eot?n1z373
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/lg.svg?n1z373
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/lg.ttf?n1z373
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\lg.ttf
+Content Type: application/octet-stream
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/lg.woff?n1z373
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/Linearicons.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\Linearicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/materialdesignicons-webfont.eot?v=1.4.57
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/materialdesignicons-webfont.svg?v=1.4.57
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\materialdesignicons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/materialdesignicons-webfont.ttf?v=1.4.57
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\materialdesignicons-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/materialdesignicons-webfont.woff2?v=1.4.57
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://livedemo00.template-help.com/wt_69536/fonts/materialdesignicons-webfont.woff?v=1.4.57
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\fonts\materialdesignicons-webfont.woff
+Content Type: font/woff
+
+Uri: https://livedemo00.template-help.com/wt_69536/footer-default.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\footer-default.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/footer-minimal.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\footer-minimal.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/footer-modern.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\footer-modern.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/gallery-post.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\gallery-post.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/grid-blog.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\grid-blog.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/header-corporate.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\header-corporate.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/header-creative.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\header-creative.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/header-default-dark.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\header-default-dark.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/header-default.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\header-default.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/header-minimal.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\header-minimal.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/header-modern.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\header-modern.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/header-sidebar-inverse.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\header-sidebar-inverse.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/header-sidebar.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\header-sidebar.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/header-transparent.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\header-transparent.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/home-variant-1.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\home-variant-1.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/home-variant-2.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\home-variant-2.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/home-variant-3.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\home-variant-3.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/home-variant-4.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\home-variant-4.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/home-variant-5.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\home-variant-5.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/home-variant-6.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\home-variant-6.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/home-variant-7.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\home-variant-7.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/home-variant-8.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\home-variant-8.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/image-post.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\image-post.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/aside-blog-about-1-210x210.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\aside-blog-about-1-210x210.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/benedict-arnold-120x120.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\benedict-arnold-120x120.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-1.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-1.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-10.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-10.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-11.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-11.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-2.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-2.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-3.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-3.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-4.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-4.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-5.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-5.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-6.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-6.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-7.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-7.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-8.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-8.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-decor-9.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-decor-9.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-image-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-image-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-image-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-image-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-image-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-image-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-image-7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-image-7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-image-8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-image-8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/bg-image-9.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\bg-image-9.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/blog-image-1-886x668.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\blog-image-1-886x668.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/blog-image-2-886x1100.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\blog-image-2-886x1100.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/brand-1-128x111.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\brand-1-128x111.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/brand-2-129x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\brand-2-129x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/brand-3-143x110.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\brand-3-143x110.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/brand-4-129x86.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\brand-4-129x86.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/brand-5-142x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\brand-5-142x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/brand-6-134x122.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\brand-6-134x122.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/calvin-fitzerald-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\calvin-fitzerald-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/company-1-126x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\company-1-126x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/company-2-134x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\company-2-134x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/company-3-132x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\company-3-132x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/company-4-126x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\company-4-126x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/company-5-138x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\company-5-138x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/company-6-143x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\company-6-143x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/company-7-109x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\company-7-109x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/company-8-109x102.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\company-8-109x102.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/deborah-quagmire-120x120.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\deborah-quagmire-120x120.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/edward-elliot-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\edward-elliot-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/favicon.ico
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/home-business-1-1481x2068.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\home-business-1-1481x2068.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/home-post-1-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\home-post-1-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/home-post-2-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\home-post-2-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/home-post-3-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\home-post-3-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/home-var-2-650x495.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\home-var-2-650x495.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/home-variant-3-555x800.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\home-variant-3-555x800.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/home-variant-5-1-391x642.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\home-variant-5-1-391x642.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/josh-wagner-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\josh-wagner-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/ken-ferguson-418x415.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\ken-ferguson-418x415.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-10.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-10.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-11.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-11.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-12.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-12.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-13.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-13.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/blog-9.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\blog-9.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/coming-soon-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\coming-soon-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/home-14.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\home-14.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-1-footer.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-1-footer.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-1-header.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-1-header.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-2-footer.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-2-footer.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-2-header.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-2-header.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-3-footer.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-3-footer.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-3-header.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-3-header.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-4-header.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-4-header.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-5-header.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-5-header.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-6-header.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-6-header.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-8-header.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-8-header.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-9-header.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-9-header.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-variant-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-variant-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-variant-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-variant-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-variant-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-variant-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-variant-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-variant-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-variant-5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-variant-5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-variant-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-variant-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-variant-7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-variant-7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/index-variant-8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\index-variant-8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-47-38x47.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-47-38x47.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-48-40x40.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-48-40x40.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-49-41x41.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-49-41x41.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-50-48x36.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-50-48x36.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-55-40x40.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-55-40x40.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-56-38x38.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-56-38x38.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-57-34x34.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-57-34x34.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-58-34x32.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-58-34x32.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-59-35x35.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-59-35x35.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-62-38x38.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-62-38x38.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-63-34x34.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-63-34x34.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-64-34x34.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-64-34x34.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-66-32x32.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-66-32x32.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-68-30x30.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-68-30x30.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/landing-69-47x18.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\landing-69-47x18.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-10.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-10.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-11.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-11.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-12.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-12.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-13.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-13.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-14.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-14.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-15.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-15.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-16.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-16.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-17.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-17.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/page-9.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\page-9.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/portfolio-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\portfolio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/portfolio-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\portfolio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/portfolio-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\portfolio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/portfolio-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\portfolio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/portfolio-5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\portfolio-5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/portfolio-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\portfolio-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/portfolio-7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\portfolio-7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/portfolio-8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\portfolio-8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/slider-1.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\slider-1.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/slider-2.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\slider-2.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/slider-3.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\slider-3.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/slider-4.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\slider-4.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/landing/slider-5.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\landing\slider-5.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/footer-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\footer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/footer-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\footer-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/footer-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\footer-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/header-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\header-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/header-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\header-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/header-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\header-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/header-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\header-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/header-5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\header-5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/header-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\header-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/header-7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\header-7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/header-8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\header-8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/header-9.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\header-9.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/index-variant-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\index-variant-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/index-variant-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\index-variant-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/index-variant-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\index-variant-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/index-variant-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\index-variant-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/index-variant-5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\index-variant-5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/index-variant-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\index-variant-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/index-variant-7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\index-variant-7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/layout-panel/index-variant-8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\layout-panel\index-variant-8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/loading.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\loading.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/logo-default-216x80.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\logo-default-216x80.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/logo-inverse-216x80.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\logo-inverse-216x80.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/luis-maxwell-418x415.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\luis-maxwell-418x415.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/nonstandart-post-1-886x668.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\nonstandart-post-1-886x668.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/parallax-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\parallax-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-1-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-1-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-10-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-10-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-2-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-2-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-2col-1-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-2col-1-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-2col-2-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-2col-2-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-2col-3-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-2col-3-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-2col-4-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-2col-4-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-2col-5-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-2col-5-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-2col-6-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-2col-6-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-2col-7-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-2col-7-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-2col-8-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-2col-8-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-3-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-3-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-4-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-4-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-5-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-5-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-6-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-6-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-7-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-7-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-8-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-8-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-9-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-9-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-justify-1-430x750.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-justify-1-430x750.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-justify-2-910x750.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-justify-2-910x750.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-justify-3-910x500.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-justify-3-910x500.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-justify-4-430x500.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-justify-4-430x500.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-justify-5-670x500.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-justify-5-670x500.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-justify-6-670x500.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-justify-6-670x500.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-masonry-1-430x430.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-masonry-1-430x430.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-masonry-2-430x700.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-masonry-2-430x700.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-masonry-3-430x550.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-masonry-3-430x550.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-masonry-4-430x550.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-masonry-4-430x550.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-masonry-5-430x500.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-masonry-5-430x500.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-masonry-6-430x600.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-masonry-6-430x600.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-original-10-1920x1280.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-original-10-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-original-4-1920x1920.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-original-4-1920x1920.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-original-5-1920x1280.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-original-5-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-original-6-1920x1280.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-original-6-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-original-6-1920x1539.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-original-6-1920x1539.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-original-7-1280x1920.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-original-7-1280x1920.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-original-8-1920x1336.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-original-8-1920x1336.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-original-9-1920x1282.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-original-9-1920x1282.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-1-1200x800.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-1-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-2-1200x800.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-2-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-3-1200x800.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-3-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-4-1200x800.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-4-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-5-1200x800.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-5-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-6-1200x800.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-6-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-7-1200x800.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-7-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-thumb-1-168x112.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-thumb-1-168x112.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-thumb-2-168x112.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-thumb-2-168x112.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-thumb-3-168x112.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-thumb-3-168x112.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-thumb-4-168x112.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-thumb-4-168x112.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-thumb-5-168x112.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-thumb-5-168x112.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-thumb-6-168x112.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-thumb-6-168x112.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/portfolio-single-thumb-7-168x112.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\portfolio-single-thumb-7-168x112.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/post-classic-1-886x668.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\post-classic-1-886x668.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-1-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-1-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-2-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-2-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-3-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-3-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-4-652x491.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-4-652x491.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/service-8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\service-8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-1.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-1.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-2.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-2.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-3.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-3.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-1-1920x1080.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-1-1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-14-1280x1920.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-14-1280x1920.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-2-1920x1080.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-2-1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-3-1920x1080.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-3-1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-4-1920x1095.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-4-1920x1095.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-5-1920x1280.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-5-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-6-1920x986.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-6-1920x986.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-7-1920x1080.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-7-1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/slider-slide-9.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\slider-slide-9.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/taylor-wilson-418x315.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\taylor-wilson-418x315.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/taylor-wilson-980x980.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\taylor-wilson-980x980.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/testimonials-1-120x120.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\testimonials-1-120x120.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/testimonials-2-120x120.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\testimonials-2-120x120.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/testimonials-3-120x120.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\testimonials-3-120x120.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/typography-1-1500x1000.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\typography-1-1500x1000.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/images/typography-1-418x279.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\images\typography-1-418x279.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/wt_69536/index.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\index.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/js/core.min.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\js\core.min.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/wt_69536/js/script.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\js\script.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/wt_69536/justify-blog.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\justify-blog.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/left-sidebar.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\left-sidebar.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/masonry-blog.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\masonry-blog.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/no-sidebar.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\no-sidebar.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/nonstandard-post-with-sidebar.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\nonstandard-post-with-sidebar.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/nonstandard-post.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\nonstandard-post.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/number-counter.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\number-counter.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/our-team.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\our-team.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/portfolio-2-columns.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\portfolio-2-columns.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/portfolio-3-columns.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\portfolio-3-columns.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/portfolio-4-columns.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\portfolio-4-columns.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/portfolio-album.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\portfolio-album.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/portfolio-fullwidth.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\portfolio-fullwidth.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/portfolio-justify.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\portfolio-justify.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/portfolio-masonry.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\portfolio-masonry.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/privacy-policy.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\privacy-policy.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/quote-post.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\quote-post.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/right-sidebar.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\right-sidebar.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/search-results.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\search-results.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/services.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\services.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/single-portfolio.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\single-portfolio.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/single-service.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\single-service.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/standard-post.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\standard-post.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/tabs.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\tabs.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/team-member-profile.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\team-member-profile.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/typography.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\typography.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/wt_69536/video-post.html
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\wt_69536\video-post.html
+Content Type: text/html
+
