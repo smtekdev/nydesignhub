@@ -593,7 +593,7 @@ code,
 }
 
 .page .icon-primary {
-	color: #80deea;
+	color: #ff7f00	;
 }
 
 .page .icon-primary.icon-circle {
@@ -1161,7 +1161,7 @@ span.button {
 
 .blurb-minimal__icon .icon {
 	font-size: 30px;
-	color: #80deea;
+	color: #ff7f00	;
 }
 
 .blurb-minimal.blurb-minimal_black, .blurb-minimal.blurb-minimal_black .blurb-minimal__icon .icon {
@@ -9523,7 +9523,7 @@ h4 + .owl-carousel {
 .rd-navbar-static .rd-navbar-nav > li.active > a,
 .rd-navbar-sidebar .rd-navbar-nav > li.opened > a,
 .rd-navbar-sidebar .rd-navbar-nav > li.active > a {
-	color: #80deea;
+	color: #ff7f00	;
 }
 
 .rd-navbar-static .rd-navbar-nav > li > .rd-navbar-submenu-toggle,
@@ -9575,7 +9575,7 @@ h4 + .owl-carousel {
 .rd-navbar-sidebar .rd-navbar-nav > li.focus > .rd-navbar-submenu-toggle::after,
 .rd-navbar-sidebar .rd-navbar-nav > li.opened > .rd-navbar-submenu-toggle::after,
 .rd-navbar-sidebar .rd-navbar-nav > li > a:hover + .rd-navbar-submenu-toggle::after {
-	color: #80deea;
+	color: #ff7f00	;
 }
 
 .rd-navbar-static.rd-navbar_half-dark .rd-navbar-nav .rd-navbar-dropdown a, .rd-navbar-static.rd-navbar_half-dark .rd-navbar-nav .rd-navbar-dropdown a:active, .rd-navbar-static.rd-navbar_half-dark .rd-navbar-nav .rd-navbar-dropdown a:focus,
